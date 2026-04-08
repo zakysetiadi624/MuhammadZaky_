@@ -1,0 +1,11 @@
+Software Development Life Cycle (SDLC) adalah proses atau tahapan yang digunakan dalam pengembangan perangkat lunak, 
+mulai dari perencanaan hingga pemeliharaan. SDLC membantu tim agar pengembangan berjalan lebih terstruktur, efisien, 
+dan sesuai kebutuhan. Terdapat berbagai model SDLC yang umum digunakan, seperti Waterfall, Prototype, Spiral, Incremental, 
+RAD, dan Agile, yang masing-masing memiliki kelebihan dan cocok digunakan sesuai kondisi proyek.
+
+Dalam praktiknya, pemilihan model SDLC menjadi tantangan, terutama jika kebutuhan sistem sering berubah, sehingga tim harus 
+menentukan metode yang paling fleksibel dan sesuai. Untuk mendukung proses ini, digunakan alat seperti diagram tool 
+(Draw.io, Lucidchart, atau Astah) serta GitHub untuk manajemen proyek.
+
+Pada studi kasus, mahasiswa diminta memilih model SDLC yang sesuai dengan proyek yang dikerjakan, menjelaskan alasan pemilihannya, 
+serta membuat diagram tahapan SDLC sebagai gambaran alur pengembangan sistem.
