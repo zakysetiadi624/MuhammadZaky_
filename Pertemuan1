@@ -1,9 +1,0 @@
-Rekayasa Perangkat Lunak (RPL) merupakan disiplin ilmu yang berfokus pada pengembangan perangkat lunak secara sistematis, terstruktur, dan terukur, mulai dari proses pembuatan hingga pemeliharaan.
-Tujuan utama RPL adalah menghasilkan software yang berkualitas, efisien, dan dapat digunakan secara berkelanjutan. Dalam pertemuan awal ini, mahasiswa diperkenalkan pada konsep dasar RPL sekaligus 
-gambaran proyek yang akan dikerjakan selama satu semester.
-
-Untuk mendukung pembelajaran, diperlukan beberapa alat seperti modul RPL, laptop, text editor atau IDE (misalnya VS Code atau IntelliJ), Git dan platform seperti GitHub/GitLab, serta browser.
-Contoh permasalahan yang sering terjadi dalam pengembangan software adalah tidak adanya perencanaan dan dokumentasi yang baik, sehingga aplikasi gagal memenuhi kebutuhan pengguna.
-
-Sebagai studi kasus, mahasiswa diminta untuk menentukan tema proyek secara berkelompok, kemudian membuat deskripsi singkat yang mencakup nama sistem, tujuan sistem, dan target pengguna. Selain itu, 
-mahasiswa juga harus membuat repository Git sebagai tempat pengelolaan dan pengembangan proyek.
